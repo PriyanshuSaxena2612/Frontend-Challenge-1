@@ -55,11 +55,8 @@ p {
     background-color: white;
     border: radius 10px;
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     flex-direction: column;
-    /* z-index: 2; */
-    /* border: 1px solid red; */
     height: 38rem;
     border-radius: 20px;
     width: 25rem;
@@ -165,6 +162,8 @@ p.💪 {
     font-weight: 900;
 }
 
+/* using media queries */
+
 @media screen and (max-width: 400px) {
     html {
         font-size: 14px;
@@ -179,7 +178,7 @@ p.💪 {
 }
 @media screen and (max-width: 375px) {
     html {
-        font-size: 12px;
+        font-size: 13.5px;
     }
 
     body {
