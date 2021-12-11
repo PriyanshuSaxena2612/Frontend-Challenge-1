@@ -67,6 +67,6 @@ Some of the mentions of my code to which I am happy I did myselves:
 ```
 ## Author
 
-- Website - [Priyanshu Saxena](https://www.your-site.com)
 - Frontend Mentor - [PriyanshuSaxena2612](https://www.frontendmentor.io/profile/PriyanshuSaxena2612)
 - Twitter - [Priyanshu_1310](https://www.twitter.com/Priyanshu_1310)
+- Solution - [Solution](https://priyanshusaxena2612.github.io/Frontend-Challenge-1/)
